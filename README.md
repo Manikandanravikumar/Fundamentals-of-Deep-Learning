@@ -3,14 +3,23 @@
 
 # Steps in recognize fresh fruits and rotten fruits
   1.Load ImageNet Base Model
+  
   2.Freeze Base Model
+  
   3.Add Layers to Model
+  
   4.Compile Model
+  
   5.Augment the Data
+  
   6.Load Dataset
+  
   7.Train the Model
+  
   8.Unfreeze Model for Fine Tuning
+  
   9.Evaluate the Model
+  
   10.Run the Assessment
   
 # 1. Load ImageNet Base Model
