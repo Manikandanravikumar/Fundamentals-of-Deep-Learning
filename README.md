@@ -1,4 +1,4 @@
-# Fundamentals-of-Deep-Learning
+# Recognize fresh and rotten fruits
   In this exercise, you will train a model to recognize fresh and rotten fruits. The dataset comes from Kaggle, a great place to go if you're interested in starting a project after this class. The dataset structure is in the data/fruits folder. There are 6 categories of fruits: fresh apples, fresh oranges, fresh bananas, rotten apples, rotten oranges, and rotten bananas. This will mean that your model will require an output layer of 6 neurons to do the categorization successfully. You'll also need to compile the model with categorical_crossentropy, as we have more than two categories.
 
 # Steps in recognize fresh fruits and rotten fruits
